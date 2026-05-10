@@ -72,7 +72,7 @@ npm run build
 
 ## Deployment
 
-Works out of the box on **Vercel** or **Netlify**:
+Works out of the box on **Vercel** :
 
 ```bash
 # Vercel CLI
