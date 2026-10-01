@@ -1,4 +1,4 @@
-ep
+ep/
 export const plants = [
   {
     id: 1,
