@@ -1,5 +1,5 @@
 
-hjexport const plants = [
+export const plants = [
   {
     id: 1,
     name: "Aglaonema Plant",
